@@ -3,6 +3,7 @@ Repository of judgments for SoundSphere based on popular Rhythm Games.
 
 ## Notes
 - Grading windows haven't been changed as I don't entirely know the spec for them yet plus they don't display.
+- [EL] on a file means it has Early/Late display with +/-.
 
 ## Games
 - Bemani
